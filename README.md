@@ -2,7 +2,7 @@
 
 A French-language command-line application in Python that runs an airline booking workflow, with a customer menu and an employee menu.
 
-> **In progress:** adding input checks for every field and expanding the program into a Flask web app with a SQLite database, seat selection and a staff page.
+> **In progress:** an HTML web version for booking flights from a browser (its files will be added to this repo), input checks for every field, and a SQLite database to save bookings.
 
 **Disclaimer:** This is an unofficial personal project. It is not affiliated with, endorsed by, or connected to Air Canada. It does not book real flights. All flight information, fare tables, employee salaries, and customer records are simulated.
 
@@ -45,7 +45,7 @@ A French-language command-line application in Python that runs an airline bookin
 
 ## Current limitations and next steps
 - Prices are predefined and flight details are generated randomly, not taken from live airline data.
-- Bookings aren't saved yet. A SQLite database is planned for the web version.
+- Bookings aren't saved yet. A SQLite database to store them is in progress.
 - Some invalid inputs (for example letters in the age field) can still cause errors. Input validation is the next step.
 
 ## Project files
