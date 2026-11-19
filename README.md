@@ -2,7 +2,7 @@
 
 A French-language command-line application in Python that runs an airline booking workflow, with a customer menu and an employee menu.
 
-> **In progress:** an HTML web version for booking flights from a browser (its files will be added to this repo), input checks for every field, and a SQLite database to save bookings.
+> **In progress:** a web version built with Flask and HTML for booking flights from a browser (its files will be added to this repo), input checks for every field, and a SQLite database to save bookings.
 
 **Disclaimer:** This is an unofficial personal project. It is not affiliated with, endorsed by, or connected to Air Canada. It does not book real flights. All flight information, fare tables, employee salaries, and customer records are simulated.
 
